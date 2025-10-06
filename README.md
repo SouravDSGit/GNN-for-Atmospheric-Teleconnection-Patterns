@@ -97,7 +97,7 @@ This notebook teaches you how to:
 ```bash
 # Clone repository
 git clone https://github.com/SouravDSGit/GNN_for_Atmospheric_Teleconnection_Patterns.git
-cd gnn-teleconnections
+cd GNN-for-Atmospheric-Teleconnection-Patterns
 
 # Install dependencies
 pip install -r requirements.txt
