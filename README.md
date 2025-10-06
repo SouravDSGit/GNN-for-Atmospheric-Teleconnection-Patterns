@@ -510,4 +510,4 @@ If you use this notebook for research or teaching:
 ## 🔗 Related Projects
 
 - [AI Emulator for Atmospheric Blocking](https://github.com/SouravDSGit/AI-Emulator-for-Atmospheric-Blocking-Events) 
-- [Project 2: Multi-Model Ensemble Analysis](https://github.com/SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution) 
+- [Multi-Model Ensemble Analysis](https://github.com/SouravDSGit/Multi-Model-Ensemble-Analysis-of-Extreme-Event-Attribution) 
